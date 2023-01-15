@@ -1,0 +1,13 @@
+mode: set
+Exercise5/stack/stack.go:10.48,13.2 2 1
+Exercise5/stack/stack.go:16.36,19.20 3 1
+Exercise5/stack/stack.go:23.2,23.24 1 1
+Exercise5/stack/stack.go:19.20,22.3 2 1
+Exercise5/stack/stack.go:27.36,30.20 3 1
+Exercise5/stack/stack.go:33.2,33.24 1 1
+Exercise5/stack/stack.go:30.20,32.3 1 1
+Exercise5/stack/stack.go:37.38,38.25 1 1
+Exercise5/stack/stack.go:39.14,40.40 1 1
+Exercise5/stack/stack.go:41.13,42.26 1 1
+Exercise5/stack/stack.go:43.13,44.26 1 1
+Exercise5/stack/stack.go:45.10,46.25 1 1

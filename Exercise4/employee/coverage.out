@@ -1,0 +1,24 @@
+mode: set
+Exercise4/employee/employee.go:15.46,16.65 1 1
+Exercise4/employee/employee.go:23.2,23.64 1 1
+Exercise4/employee/employee.go:16.65,18.3 1 1
+Exercise4/employee/employee.go:18.8,18.41 1 1
+Exercise4/employee/employee.go:18.41,20.3 1 1
+Exercise4/employee/employee.go:20.8,20.40 1 1
+Exercise4/employee/employee.go:20.40,22.3 1 1
+Exercise4/employee/employee.go:27.37,46.47 6 1
+Exercise4/employee/employee.go:49.2,53.24 5 1
+Exercise4/employee/employee.go:64.2,65.26 2 1
+Exercise4/employee/employee.go:74.2,74.12 1 1
+Exercise4/employee/employee.go:46.47,48.3 1 1
+Exercise4/employee/employee.go:53.24,55.3 1 1
+Exercise4/employee/employee.go:55.8,55.32 1 1
+Exercise4/employee/employee.go:55.32,56.27 1 1
+Exercise4/employee/employee.go:56.27,58.4 1 1
+Exercise4/employee/employee.go:58.9,58.35 1 1
+Exercise4/employee/employee.go:58.35,59.26 1 1
+Exercise4/employee/employee.go:59.26,61.5 1 1
+Exercise4/employee/employee.go:65.26,68.3 2 1
+Exercise4/employee/employee.go:68.8,68.34 1 1
+Exercise4/employee/employee.go:68.34,69.25 1 1
+Exercise4/employee/employee.go:69.25,72.4 2 0
